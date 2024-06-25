@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 cooderl/wewe-rss-sqlite:latest
 wukongdaily/box:latest
+herberthe0229/iptv-sources:latest
