@@ -5,5 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 cooderl/wewe-rss-sqlite:latest
-cooderl/wewe-rss:latest
-mysql:latest
+wukongdaily/box:latest
